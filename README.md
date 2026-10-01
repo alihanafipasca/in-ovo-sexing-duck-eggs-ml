@@ -14,11 +14,13 @@ A total of **503 Mojosari duck eggs** were analyzed. The main experimental datas
 
 The main objectives of this study are to:
 
-* Investigate the feasibility of early in-ovo sexing of Mojosari duck eggs on day 5 of incubation.
-* Combine external morphological measurements with image-derived embryonic vascular and textural features.
-* Evaluate conventional machine-learning classifiers for female and male egg classification.
-* Analyze the contribution of individual feature groups through feature ablation analysis.
-* Assess model robustness using a batch-held-out evaluation across acquisition stages.
+- **Develop an early in-ovo sexing approach** for Mojosari duck eggs at day 5 of incubation.
+
+- **Integrate complementary feature representations**, combining five external morphological features obtained through direct egg measurements with five embryonic vascular and five GLCM-based textural features extracted from RGB candling images.
+
+- **Investigate the contribution of different feature groups** through statistical analysis and feature ablation analysis to characterize and discriminate male and female Mojosari duck embryos.
+
+- **Evaluate conventional machine-learning classifiers**, including Logistic Regression, Random Forest, SVM-RBF, and XGBoost, using different feature representations under a consistent evaluation protocol.
 
 ---
 
