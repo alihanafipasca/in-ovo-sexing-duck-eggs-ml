@@ -269,7 +269,7 @@ In-Ovo_Sexing_Duck_Eggs/
 │   ├── Calculate_Morphological.csv
 │   ├── Embryo_Vascular1.csv
 │   ├── Embryo_Vascular2.csv
-│   ├── Textural_GLCM.csv
+│   ├── GLCM.csv
 │   ├── GroundTruth_VentSexing.csv
 │   ├── Morphological.csv
 │   ├── Embryologic_Vascular.csv
