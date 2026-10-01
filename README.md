@@ -146,10 +146,15 @@ Four conventional machine-learning classifiers were evaluated:
 3. **SVM with RBF kernel**
 4. **XGBoost**
 
-Hyperparameter optimization was performed using **Bayesian optimization with BayesSearchCV** and stratified cross-validation on the development data.
+Hyperparameter optimization was performed using Bayesian Optimization with BayesSearchCV.
+
+The optimization used:
+32 iterations
+10-fold Stratified Cross-Validation
+Accuracy as the optimization criterion
+Random state = 42
 
 For models requiring feature scaling, **RobustScaler** was used within the modeling workflow.
-
 The independent test set was kept separate from model configuration and hyperparameter optimization.
 
 ---
