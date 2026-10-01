@@ -26,7 +26,7 @@ The independent test set was reserved for final evaluation after the experimenta
 The main objectives of this study are to:
 
 1. Characterize sex-related differences in morphological, embryonic vascular, and textural features of Mojosari duck eggs at day 5 of incubation.
-2. Extract quantitative features from RGB candling images while maintaining the eggshell intact.
+2. Extract quantitative features from: External morpohological and RGB candling images while maintaining the eggshell intact.
 3. Evaluate different combinations of feature groups for early in-ovo sex classification.
 4. Evaluate conventional machine-learning classifiers using the extracted feature representation.
 5. Assess classification robustness under acquisition-stage variation using a batch-held-out evaluation.
