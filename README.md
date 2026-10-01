@@ -427,9 +427,12 @@ Research on early non-invasive in-ovo sexing of Mojosari duck eggs using externa
 
 ## 📄 License
 
-This repository is intended for **academic and research purposes**.
+MIT License
 
-Please refer to the repository license file for the applicable terms of use.
+Copyright (c) 2026 M. Ali Hanafiah
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files...
 
 ---
 
