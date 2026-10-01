@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This repository contains the implementation, feature datasets, image-processing outputs, experimental notebooks, and evaluation results supporting the research study:
+This repository contains the implementation, feature datasets, experimental notebooks, and evaluation results supporting the research study:
 
 > **Early In-Ovo Sexing of Mojosari Duck Eggs on Day 5 Using Hybrid Feature Fusion and Machine Learning**
 
