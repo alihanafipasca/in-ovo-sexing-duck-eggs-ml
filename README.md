@@ -292,7 +292,7 @@ In-Ovo_Sexing_Duck_Eggs/
 │   ├── R_Component/
 │   ├── G_Component/
 │   ├── Binarization/
-│   └── BMultiplication_Mask/
+│   └── Multiplication_Mask/
 │
 ├── Segmentation/
 │   ├── CLAHE_Day-5/
