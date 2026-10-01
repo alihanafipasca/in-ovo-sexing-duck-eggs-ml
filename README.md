@@ -267,7 +267,6 @@ Because the class distribution was not perfectly balanced, **Balanced Accuracy a
 In-Ovo_Sexing_Duck_Eggs/
 │
 ├── README.md
-├── requirements.txt
 │
 ├── Features/
 │   ├── Morphological_Raw.xlsx
