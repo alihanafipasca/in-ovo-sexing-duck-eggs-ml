@@ -1,4 +1,4 @@
-# 🦆 Early In-Ovo Sexing of Mojosari Duck Eggs on Day 5
+# Early In-Ovo Sexing of Mojosari Duck Eggs on Day 5 Using Hybrid Feature Fusion and Machine Learning
 
 ## 📌 Overview
 
